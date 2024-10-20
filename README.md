@@ -4,4 +4,5 @@
 
 
 # Output
-![Spotify Clone](https://github.com/user-attachments/assets/46b35c16-edc6-456c-85ac-f731926b8f6d)
+
+![Spotify Clone](https://github.com/user-attachments/assets/703ab406-c928-43eb-8260-27827765272d)
